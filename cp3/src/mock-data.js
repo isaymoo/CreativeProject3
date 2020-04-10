@@ -555,7 +555,7 @@ let mock = [{
 		name: "Brutal Legend",
 		console: "Xbox 360",
 		publisher: "EA",
-		esrb: "M:
+		esrb: "M"
 	},
             {
 		id: 81,
