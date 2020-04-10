@@ -9,7 +9,11 @@
     </div>
     </div>
     <router-view />
+    <div class="footer">
+    <p><a href="https://github.com/isaymoo/CreativeProject3">github</a></p>
+    </div>
   </div>
+  
 </template>
 
 <style>
@@ -46,5 +50,15 @@ body {
 
 .content {
   padding: 10px 100px;
+}
+.footer {
+margin-top: 30px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  background-color: #D6E9FE;    /* Light blue */
 }
 </style>
