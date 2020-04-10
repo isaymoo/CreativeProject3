@@ -3,7 +3,9 @@
   <div class="header">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">Games List</router-link>
+      <router-link to="/Publisher">Publisher</router-link> |
+      <router-link to="/ESRB">ESRB</router-link> |
+      <router-link to="/Console">Console</router-link>
     </div>
     </div>
     <router-view />
@@ -24,7 +26,7 @@ body {
 .header {
   display: flex;
   justify-content: space-between;
-  background: #571845;
+  background: pink;
   padding: 10px 100px;
   color: white;
 }
@@ -39,7 +41,7 @@ body {
 }
 
 #nav a.router-link-exact-active {
-  color: #FFC300;
+  color: blue;
 }
 
 .content {
