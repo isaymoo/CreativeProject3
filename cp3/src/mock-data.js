@@ -537,444 +537,444 @@ let mock = [{
 		esrb: "T"
 	},
             {
-		id: 78
-		name: "Assassin's Creed"
-		console: "Xbox 360"
-		publisher: "Ubisoft"
+		id: 78,
+		name: "Assassin's Creed",
+		console: "Xbox 360",
+		publisher: "Ubisoft",
 		esrb: "M"
 	},
             {
-		id: 79
-		name: "Borderlands 3"
-		console: "Xbox One"
-		publisher: "2k"
+		id: 79,
+		name: "Borderlands 3",
+		console: "Xbox One",
+		publisher: "2k",
 		esrb: "M"
 	},
             {
-		id: 80
-		name: "Brutal Legend"
-		console: "Xbox 360"
-		publisher: "EA"
+		id: 80,
+		name: "Brutal Legend",
+		console: "Xbox 360",
+		publisher: "EA",
 		esrb: "M:
 	},
             {
-		id: 81
-		name: "Call of Duty 2"
-		console: "Xbox 360"
-		publisher: "Activision"
+		id: 81,
+		name: "Call of Duty 2",
+		console: "Xbox 360",
+		publisher: "Activision",
 		esrb: "T"
 	},
             {
-		id: 82
-		name: "Call of Duty Black Ops"
-		console: "Xbox 360"
-		publisher: "Activision"
+		id: 82,
+		name: "Call of Duty Black Ops",
+		console: "Xbox 360",
+		publisher: "Activision",
 		esrb: "M"
 	},
             {
-		id: 83
-		name: "Call of Duty Modern Warfare 2"
-		console: "Xbox 360"
-		publisher: "Activision"
+		id: 83,
+		name: "Call of Duty Modern Warfare 2",
+		console: "Xbox 360",
+		publisher: "Activision",
 		esrb: "M"
 	},
             {
-		id: 84
-		name: "Call of Duty Modern Warfare 3"
-		console: "Xbox 360"
-		publisher: "Activision"
+		id: 84,
+		name: "Call of Duty Modern Warfare 3",
+		console: "Xbox 360",
+		publisher: "Activision",
 		esrb: "M"
 	},
             {
-		id: 85
-		name: "Call of Duty Infinite Warfare Legacy Edition"
-		console: "Xbox One"
-		publisher: "Activision"
+		id: 85,
+		name: "Call of Duty Infinite Warfare Legacy Edition",
+		console: "Xbox One",
+		publisher: "Activision",
 		esrb: "M"
 	},
             {
-		id: 86
-		name: "Control"
-		console: "Xbox One"
-		publisher: "505 Games"
+		id: 86,
+		name: "Control",
+		console: "Xbox One",
+		publisher: "505 Games",
 		esrb: "M"
 	},
             {
-		id: 87
-		name: "Crash Team Racing Nitro Fueled"
-		console: "Xbox One
-		publisher: "Activision"
+		id: 87,
+		name: "Crash Team Racing Nitro Fueled",
+		console: "Xbox One",
+		publisher: "Activision",
 		esrb: "E10"
 	},
             {
-		id: 88
-		name: "Doom Eternal"
-		console: "Xbox One"
-		publisher: "Bethesda"
+		id: 88,
+		name: "Doom Eternal",
+		console: "Xbox One",
+		publisher: "Bethesda",
 		esrb: "M"
 	},
             {
-		id: 89
-		name: "Driver San Francisco"
-		console: "Xbox 360"
-		publisher: "Ubisoft"
+		id: 89,
+		name: "Driver San Francisco",
+		console: "Xbox 360",
+		publisher: "Ubisoft",
 		esrb: "T"
 	},
             {
-		id: 
-		name: "Fallout 3 Game of the Year Edition"
-		console: "Xbox 360"
-		publisher: "Bethesda"
+		id: 140,
+		name: "Fallout 3 Game of the Year Edition",
+		console: "Xbox 360",
+		publisher: "Bethesda",
 		esrb: "M"
 	},
             {
-		id: 90
-		name: "Fallout New Vegas Ultimate Edition"
-		console: "Xbox 360"
-		publisher: "Bethesda"
+		id: 90,
+		name: "Fallout New Vegas Ultimate Edition",
+		console: "Xbox 360",
+		publisher: "Bethesda",
 		esrb: "M"
 	},
             {
-		id: 91
-		name: "Final Fantasy XV Royal Edition"
-		console: "Xbox One"
-		publisher: "Square Enix"
+		id: 91,
+		name: "Final Fantasy XV Royal Edition",
+		console: "Xbox One",
+		publisher: "Square Enix",
 		esrb: "T"
 	},
             {
-		id: 92
-		name: "Gears of War Ultimate Edition"
-		console: "Xbox One"
-		publisher: "Microsoft"
+		id: 92,
+		name: "Gears of War Ultimate Edition",
+		console: "Xbox One",
+		publisher: "Microsoft",
 		esrb: "M"
 	},
             {
-		id: 93
-		name: "Gears of War Judgement"
-		console: "Xbox 360"
-		publisher: "Microsoft"
+		id: 93,
+		name: "Gears of War Judgement",
+		console: "Xbox 360",
+		publisher: "Microsoft",
 		esrb: "M"
 	},
             {
-		id: 94
-		name: "Halo Reach"
-		console: "Xbox 360"
-		publisher: "Microsoft"
+		id: 94,
+		name: "Halo Reach",
+		console: "Xbox 360",
+		publisher: "Microsoft",
 		esrb: "M"
 	},
             {
-		id: 95
-		name: "LA Noire"
-		console: "Xbox One"
-		publisher: "2k"
+		id: 95,
+		name: "LA Noire",
+		console: "Xbox One",
+		publisher: "2k",
 		esrb: "M"
 	},
             {
-		id: 96
-		name: "Mass Effect 3"
-		console: "Xbox 360"
-		publisher: "EA"
+		id: 96,
+		name: "Mass Effect 3",
+		console: "Xbox 360",
+		publisher: "EA",
 		esrb: "M"
 	},
             {
-		id: 97
-		name: "Metal Gear Rising Revengence"
-		console: "Xbox 360"
-		publisher: "Konami"
+		id: 97,
+		name: "Metal Gear Rising Revengence",
+		console: "Xbox 360",
+		publisher: "Konami",
 		esrb: "M"
 	},
             {
-		id: 98
-		name: "Middle Earth Shadow of War Definitive Edition"
-		console: "Xbox One"
-		publisher: "WB Games"
+		id: 98,
+		name: "Middle Earth Shadow of War Definitive Edition",
+		console: "Xbox One",
+		publisher: "WB Games",
 		esrb: "M"
 	},
             {
-		id: 99
-		name: "Midnight Club LA Complete Edition"
-		console: "Xbox 360"
-		publisher: "2k"
+		id: 99,
+		name: "Midnight Club LA Complete Edition",
+		console: "Xbox 360",
+		publisher: "2k",
 		esrb: "T"
 	},
             {
-		id: 100
-		name: "Mirror's Edge"
-		console: "Xbox 360"
-		publisher: "EA"
+		id: 100,
+		name: "Mirror's Edge",
+		console: "Xbox 360",
+		publisher: "EA",
 		esrb: "T"
 	},
             { 
-		id: 101
-		name: "Mirror's Edge Catalyst"
-		console: "Xbox One"
-		publisher: "EA"
+		id: 101,
+		name: "Mirror's Edge Catalyst",
+		console: "Xbox One",
+		publisher: "EA",
 		esrb: "T"
 	},
             {
-		id: 102
-		name: "Mutant Football League Dynasty Edition"
-		console: "Xbox One"
-		publisher: "Nighthawk"
+		id: 102,
+		name: "Mutant Football League Dynasty Edition",
+		console: "Xbox One",
+		publisher: "Nighthawke",
 		esrb: "M"
 	},
             {
-		id: 103
-		name: "Portal 2"
-		console: "Xbox 360"
-		publisher: "Valve"
+		id: 103,
+		name: "Portal 2",
+		console: "Xbox 360",
+		publisher: "Valve",
 		esrb: "E10"
 	},
             {
-		id: 104
-		name: "Rare Replay"
-		console: "Xbox One"
-		publisher: "Microsoft"
+		id: 104,
+		name: "Rare Replay",
+		console: "Xbox One",
+		publisher: "Microsoft",
 		esrb: "M"
 	},
             {
-		id: 105
-		name: "Red Dead Redemption Game of the Year Edition"
-		console: "Xbox 360"
-		publisher: "2k"
+		id: 105,
+		name: "Red Dead Redemption Game of the Year Edition",
+		console: "Xbox 360",
+		publisher: "2k",
 		esrb: "M"
 	},
             {
-		id: 106
-		name: "Sekiro Shadows Die Twice"
-		console: "Xbox One"
-		publisher: "Activision"
+		id: 106,
+		name: "Sekiro Shadows Die Twice",
+		console: "Xbox One",
+		publisher: "Activision",
 		esrb: "M"
 	},
             {
-		id: 107
-		name: "Shadow of the Tomb Raider Definitive Edition"
-		console: "Xbox One"
-		publisher: "Square Enix"
+		id: 107,
+		name: "Shadow of the Tomb Raider Definitive Edition",
+		console: "Xbox One",
+		publisher: "Square Enix",
 		esrb: "M"
 	},
             {
-		id: 108
-		name: "Tom Clancy's Splinter Cell"
-		console: "Xbox"
-		publisher: "Ubisoft"
+		id: 108,
+		name: "Tom Clancy's Splinter Cell",
+		console: "Xbox",
+		publisher: "Ubisoft",
 		esrb: "T"
 	},
             {
-		id: 109
-		name: "Star Wars Jedi Fallen Order"
-		console: "Xbox One"
-		publisher: "EA"
+		id: 109,
+		name: "Star Wars Jedi Fallen Order",
+		console: "Xbox One",
+		publisher: "EA",
 		esrb: "T"
 	},
             {
-		id: 110
-		name: "Star Wars Republic Commando"
-		console: "Xbox"
-		publisher: "LucasArts"
+		id: 110,
+		name: "Star Wars Republic Commando",
+		console: "Xbox",
+		publisher: "LucasArts",
 		esrb: "T"
 	},
             {
-		id: 111
-		name: "Sunset Overdrive"
-		console: "Xbox One"
-		publisher: "Microsoft"
+		id: 111,
+		name: "Sunset Overdrive",
+		console: "Xbox One",
+		publisher: "Microsoft",
 		esrb: "M"
 	},
             {
-		id: 112
-		name: "Assassins' Creed Unity"
-		console: "Xbox One"
-		publisher: "Ubisoft"
+		id: 112,
+		name: "Assassins' Creed Unity",
+		console: "Xbox One",
+		publisher: "Ubisoft",
 		esrb: "M"
             },
             {
-		id: 113
-		name: "Dead Space"
-		console: "Xbox 360"
-		publisher: "EA"
+		id: 113,
+		name: "Dead Space",
+		console: "Xbox 360",
+		publisher: "EA",
 		esrb: "M"
 	},
             {
-		id: 114
-		name: "Assassin's Creed Odyssey Ultimate Edition"
-		console: "Xbox One"
-		publisher: "Ubisoft"
+		id: 114,
+		name: "Assassin's Creed Odyssey Ultimate Edition",
+		console: "Xbox One",
+		publisher: "Ubisoft",
 		esrb: "M"
 	},
             {
-		id: 115
-		name: "Assassin's Creed Origins Gold Edition"
-		console: "Xbox One
-		publisher: "Ubisoft"
+		id: 115,
+		name: "Assassin's Creed Origins Gold Edition",
+		console: "Xbox One",
+		publisher: "Ubisoft",
 		esrb: "M"
 	},
             {
-		id: 116
-		name: "Castlevania Lords of Shadow"
-		console: "Xbox 360"
-		publisher: "Konami"
+		id: 116,
+		name: "Castlevania Lords of Shadow",
+		console: "Xbox 360",
+		publisher: "Konami",
 		esrb: "M"
 	},
             {
-		id: 117
-		name: "Castlevania Lords of Shadow 2"
-		console: "Xbox 360"
-		publisher: "Konami"
+		id: 117,
+		name: "Castlevania Lords of Shadow 2",
+		console: "Xbox 360",
+		publisher: "Konami",
 		esrb: "M"
 	},
             {
-		id: 118
-		name: "Devil May Cry HD Collection"
-		console: "Xbox One"
-		publisher: "Capcom"
+		id: 118,
+		name: "Devil May Cry HD Collection",
+		console: "Xbox One",
+		publisher: "Capcom",
 		esrb: "M"
 	},
             {
-		id: 119
-		name: "Devil May Cry 4 Special Edition"
-		console: "Xbox One"
-		publisher: "Capcom"
+		id: 119,
+		name: "Devil May Cry 4 Special Edition",
+		console: "Xbox One",
+		publisher: "Capcom",
 		esrb: "M"
 	},
             {
-		id: 120
-		name: "Doom (1993)"
-		console: "Xbox One"
-		publisher: "Bethesda"
+		id: 120,
+		name: "Doom (1993)",
+		console: "Xbox One",
+		publisher: "Bethesda",
 		esrb: "M"
 	},
             {
-		id: 121
-		name: "Doom II"
-		console: "Xbox One"
-		publisher: "Bethesda"
+		id: 121,
+		name: "Doom II",
+		console: "Xbox One",
+		publisher: "Bethesda",
 		esrb: "M"
 	},
             {
-		id: 122
-		name: "Doom 3"
-		console: "Xbox One"
-		publisher: "Bethesda"
+		id: 122,
+		name: "Doom 3",
+		console: "Xbox One",
+		publisher: "Bethesda",
 		esrb: "M"
 	},
             {
-		id: 123
-		name: "Doom 64"
-		console: "Xbox One"
-		publisher: "Bethesda"
+		id: 123,
+		name: "Doom 64",
+		console: "Xbox One",
+		publisher: "Bethesda",
 		esrb: "M"
 	},
             {
-		id: 124
-		name: "Fable Anniversary"
-		console: "Xbox 360"
-		publisher: "Microsoft"
+		id: 124,
+		name: "Fable Anniversary",
+		console: "Xbox 360",
+		publisher: "Microsoft",
 		esrb: "M"
 	},
             {
-		id: 125
-		name: "Forza Horizon 4"
-		console: "Xbox One"
-		publisher: "Microsoft"
+		id: 125,
+		name: "Forza Horizon 4",
+		console: "Xbox One",
+		publisher: "Microsoft",
 		esrb: "E"
 	},
             {
-		id: 126
-		name: "Gears of War 2"
-		console: "Xbox 360"
-		publisher: "Microsoft"
+		id: 126,
+		name: "Gears of War 2",
+		console: "Xbox 360",
+		publisher: "Microsoft",
 		esrb: "M"
 	},
             {
-		id: 127
-		name: "Gears of War 3"
-		console: "Xbox 360"
-		publisher: "Microsoft"
+		id: 127,
+		name: "Gears of War 3",
+		console: "Xbox 360",
+		publisher: "Microsoft",
 		esrb: "M"
 	},
             {
-		id: 128
-		name: "Gears of War 4"
-		console: "Xbox One"
-		publisher: "Microsoft"
+		id: 128,
+		name: "Gears of War 4",
+		console: "Xbox One",
+		publisher: "Microsoft",
 		esrb: "M"
 	},
             {
-		id: 129
-		name: "Gears 5"
-		console: "Xbox One"
-		publisher: "Microsoft"
+		id: 129,
+		name: "Gears 5",
+		console: "Xbox One",
+		publisher: "Microsoft",
 		esrb: "M"
 	},
             {
-		id: 130
-		name: "Lego Star Wars II"
-		console: "Xbox 360"
-		publisher: "LucasArts"
+		id: 130,
+		name: "Lego Star Wars II",
+		console: "Xbox 360",
+		publisher: "LucasArts",
 		esrb: "E10"
 	},
             {
-		id: 131
-		name: "Mass Effect"
-		console: "Xbox 360"
-		publisher: "EA"
+		id: 131,
+		name: "Mass Effect",
+		console: "Xbox 360",
+		publisher: "EA",
 		esrb: "M"
 	},
             {
-		id: 132
-		name: "Mass Effect 2"
-		console: "Xbox 360"
-		publisher: "EA"
+		id: 132,
+		name: "Mass Effect 2",
+		console: "Xbox 360",
+		publisher: "EA",
 		esrb: "M"
 	},
             {
-		id: 133
-		name: "Rise of the Tomb Raider 20 Year Celebration"
-		console: "Xbox One"
-		publisher: "Square Enix"
+		id: 133,
+		name: "Rise of the Tomb Raider 20 Year Celebration",
+		console: "Xbox One",
+		publisher: "Square Enix",
 		esrb: "M"
 	},
             {
-		id: 134
-		name: "Sonic Generations"
-		console: "Xbox 360"
-		publisher: "Sega"
+		id: 134,
+		name: "Sonic Generations",
+		console: "Xbox 360",
+		publisher: "Sega",
 		esrb: "E"
 	},
             {
-		id: 135
-		name: "Star Wars Battlefront"
-		console: "Xbox"
-		publisher: "LucasArts"
+		id: 135,
+		name: "Star Wars Battlefront",
+		console: "Xbox",
+		publisher: "LucasArts",
 		esrb: "T"
 	},
             {
-		id: 136
-		name: "Star Wars Jedi Starfighter"
-		console: "Xbox"
-		publisher: "LucasArts"
+		id: 136,
+		name: "Star Wars Jedi Starfighter",
+		console: "Xbox",
+		publisher: "LucasArts",
 		esrb: "T"
 	},
             {
-		id: 137
-		name: "Tekken 6"
-		console: "Xbox 360"
-		publisher: "Bandai Namco"
+		id: 137,
+		name: "Tekken 6",
+		console: "Xbox 360",
+		publisher: "Bandai Namco",
 		esrb: "T"
 	},
             {
-		id: 138
-		name: "Toy Story 3"
-		console: "Xbox 360"
-		publisher: "Disney"
+		id: 138,
+		name: "Toy Story 3",
+		console: "Xbox 360",
+		publisher: "Disney",
 		esrb: "E10"
 	},
             {
-		id: 139
-		name: "The Witcher 3 Wild Hunt Game of the Year Edition"
-		console: "Xbox One"
-		publisher: "CD Project Red"
+		id: 139,
+		name: "The Witcher 3 Wild Hunt Game of the Year Edition",
+		console: "Xbox One",
+		publisher: "CD Projekt Red",
 		esrb: "M"
 	}
             
